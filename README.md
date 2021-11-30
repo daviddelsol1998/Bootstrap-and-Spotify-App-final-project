@@ -10,7 +10,9 @@ My purpose with this repository is to learn how to use Bootstrap framework to qu
 
 # Development Environment
 
-I have used VS code as my code editor along with the GoLive extension to write and test the website. I have used the prettier extension to format the code to follow industry standards. I was running Mac OS on one device and ubuntu on another device, while writting this project.
+I have used VS code as my code editor along with the GoLive extension to write and test the website. I have used the prettier extension to format the code to follow industry standards. I was running Mac OS on one device and ubuntu on another device, while writting this project to check how the website is looking on different platforms. The website was also tested on an android device. 
+
+Git used for version control along with GitHub Desktop for ease of use. GitHub is used to store the project.
 
 HTML5 is used to display the website content. Javascript is used to display a message on top of the website addressing recruiters to inform them whether or not I am looking for a job at this time, this also greets them differently whether it is a weekend or not.
 
