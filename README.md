@@ -1,27 +1,19 @@
-# Overview
+# Final Project Description:
 
-In this repository, I am exploring the Bootstrap framework by exploring different components and css classes to style the Bootstrap and recreate my original portfolio website. For this I am using HTML5 primarily and I am also using an external CSS style sheet, as well as an external JavaScript file provided by the Bootstrap 5 official documentations.
+This repository contains my final portfolio for WDD 330 in which I am exploring the two parts of my project.
+1 - Rebuilding my original portfolio using bootstrap https://daviddelsol1998.github.io/ instead of traditional css.
+2 - Creating an spotify app that pulls data from the spotify api app using vanilla js and my own personal client id and token. The application allows the user to select from different music genres and pulls the most popular playlist of the slected genre. Once the playlist is selected, different music tracks appear and by clicking into one of them the user can see the artist, the song name and the album cover on the side.
 
-The website I am attempting to recreate is https://daviddelsol1998.github.io/ a personal portfolio assignment originally build to showcase some basic HTML/CSS/JS skills. The website is hosted using github pages, and it is written using all the previously mentioned technologies. The clone website in this repository is also hosted on github pages https://daviddelsol1998.github.io/Bootstrap/index.html however there is only HTML for the website content and JS for an interactive feautre, as the boostrap framework provides external css and javascript files with predefined behavior for looks and responsiveness.
+# Important websites:
 
-My purpose with this repository is to learn how to use Bootstrap framework to quickly Boostrap and prototype the front end of simple websites, to allow myself to dedicate more time into learning back end services.
-
-[Software Demo Video](https://youtu.be/7iaEAvFAZB4)
-
-# Development Environment
-
-I have used VS code as my code editor along with the GoLive extension to write and test the website. I have used the prettier extension to format the code to follow industry standards. I was running Mac OS on one device and ubuntu on another device, while writting this project to check how the website is looking on different platforms. The website was also tested on an android device. 
-
-Git used for version control along with GitHub Desktop for ease of use. GitHub is used to store the project.
-
-HTML5 is used to display the website content. Javascript is used to display a message on top of the website addressing recruiters to inform them whether or not I am looking for a job at this time, this also greets them differently whether it is a weekend or not.
-
-No CSS or JavaScript is used to generate the website's looks or responsiveness as this is address using Bootstrap 5 with external CSS and JavaScript files which interact with my HTML through classes.
-
-# Useful Websites
-
+Part 1 of the project: Replication of my original portfolio using bootstrap.
 * [Original website to replicate](https://daviddelsol1998.github.io/)
 * [BootStrap 5 documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+
+Part 2 of the project: Spotify App.
+* [Spotify App Instance (for client id and token)](https://developer.spotify.com/dashboard/applications/91679a923cc34dbf92838a7a11eb42a0)
+* [Spotify API documentation](https://developer.spotify.com/documentation/web-api/)
+* [Youtube tutorial that I followed](https://www.youtube.com/watch?v=SbelQW2JaDQ&t=1094s)
 
 # Future Work
 
